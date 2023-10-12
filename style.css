@@ -1,0 +1,24 @@
+.footer {
+    background-color: #222;
+    color: #fafafa;
+    font-size: 12px;
+}
+
+.footer-wrap {
+    padding: 20px 8px;
+}
+
+.footer-wrap h3 {
+    text-transform: uppercase;
+    margin: 8px 0;
+    color: var(--primary-color);
+}
+
+.footer-wrap p {
+    margin: 8px 0;
+}
+
+.grid {
+    max-width: 98%;
+    margin: 0 auto;
+}
